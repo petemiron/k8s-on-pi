@@ -4,9 +4,11 @@ Run Kubernetes on a Raspberry Pi Cluster.
 
 # Hardware
 I found the basic shopping list here:
+
 http://blog.kubernetes.io/2015/11/creating-a-Raspberry-Pi-cluster-running-Kubernetes-the-shopping-list-Part-1.html
 
 The only modification I made was to go up to the Raspberry Pi 3 Model B:
+
 https://www.adafruit.com/products/3055?gclid=CPHw86Oph84CFYwfhgodFHEIKQ
 
 # Since I'm using different hardware ...

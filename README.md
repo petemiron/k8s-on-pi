@@ -19,3 +19,5 @@ Some of the other bits didn't work. Here's what I needed to do:
 3. Install kubernetes on RaspberryPi from these instructions: https://github.com/Project31/kubernetes-installer-rpi
 
 This will give you a little older version of RaspberryPi. I'm currently looking into how to get the recent version working.
+
+I went through several different attempts of getting kubernetes to work on RPi. This method, while a bit slower than just being able to install a pre-built image is the only one that worked -- created a cluster that's been running for a few days.
